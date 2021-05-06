@@ -33,4 +33,4 @@ Please make sure the saves/game folders do not contain any subdirectories/files 
 5. Create Folder: Creates a new directory in the saves folder.
 6. Rename Item: Renames an item in both the view and on the filesystem.
 7. Delete Item: Deletes a file or folder. DOES provide a confirmation popup to remind you what you're doing.
-
+8. The tree view containing your stored saves.
