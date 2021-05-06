@@ -20,7 +20,7 @@ The application was made on Windows 10 x64bit with Python 3.7.9 with the Steam v
 The application requires TLNSS.config.ini to be located in the same directory as the .exe or .py file. This stores the user's location for a saves/game folder. You can edit it directly to via the GUI.
 <br/><br/>
 
-Please make sure the saves/game folders do not contain any subdirectories/files you are afraid may be lost, as the applciation does allow you to delete files/folders through it.
+Please make sure the saves folder does not contain any subdirectories/files you are afraid may be lost, as the application does allow you to delete files/folders through it.
 
 <p align="center">
   <img src="./images/example.png">
